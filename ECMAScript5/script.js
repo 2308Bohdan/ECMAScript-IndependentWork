@@ -1,5 +1,5 @@
 "use strict";
-
+//new
 function House(name) {
 	if (this._validString(name)) {
 		this._name = name;
